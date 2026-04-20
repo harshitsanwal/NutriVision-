@@ -1,0 +1,5 @@
+{
+  "name": "NutriVision AI",
+  "description": "Advanced AI nutritionist and food recognition system for precise calorie tracking and personalized diet planning.",
+  "requestFramePermissions": ["camera"]
+}
